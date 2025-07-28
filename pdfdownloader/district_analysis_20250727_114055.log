@@ -1,0 +1,310 @@
+✅ Successfully loaded data from districts_with_constituencies_and_parts.json
+
+==================================================
+OVERALL STATISTICS
+==================================================
+Total Districts: 33
+Total Constituencies: 119
+Total Parts: 35907
+Average Constituencies per District: 3.61
+Average Parts per Constituency: 301.74
+
+================================================================================
+DISTRICT SUMMARY
+================================================================================
+
+📁 Adilabad (ID: S2903)
+   Constituencies: 2
+   Total Parts: 595
+   Constituencies:
+     • Adilabad (AC: 7) - 292 parts
+     • Boath (AC: 8) - 303 parts
+
+📁 Bhadradri (ID: S2930)
+   Constituencies: 5
+   Total Parts: 1104
+   Constituencies:
+     • Aswaraopeta (AC: 118) - 184 parts
+     • Bhadrachalam (AC: 119) - 179 parts
+     • Kothagudem (AC: 117) - 253 parts
+     • Pinapaka (AC: 110) - 245 parts
+     • Yellandu (AC: 111) - 243 parts
+
+📁 Hanumakonda (ID: S2928)
+   Constituencies: 2
+   Total Parts: 483
+   Constituencies:
+     • Parkal (AC: 104) - 239 parts
+     • Warangal West (AC: 105) - 244 parts
+
+📁 Hyderabad (ID: S2917)
+   Constituencies: 15
+   Total Parts: 3984
+   Constituencies:
+     • Amberpet  (AC: 59) - 236 parts
+     • Bahadurpura (AC: 69) - 263 parts
+     • Chandrayangutta (AC: 67) - 305 parts
+     • Charminar (AC: 66) - 198 parts
+     • Goshamahal (AC: 65) - 235 parts
+     • Jubilee Hills (AC: 61) - 329 parts
+     • Karwan (AC: 64) - 311 parts
+     • Khairatabad  (AC: 60) - 245 parts
+     • Malakpet (AC: 58) - 300 parts
+     • Musheerabad (AC: 57) - 274 parts
+     • Nampally (AC: 63) - 276 parts
+     • Sanathnagar (AC: 62) - 229 parts
+     • Secunderabad (AC: 70) - 220 parts
+     • Secunderabad Cantt (AC: 71) - 231 parts
+     • Yakutpura (AC: 68) - 332 parts
+
+📁 Jagtial (ID: S2907)
+   Constituencies: 3
+   Total Parts: 785
+   Constituencies:
+     • Dharmapuri (AC: 22) - 269 parts
+     • Jagtial (AC: 21) - 254 parts
+     • Koratla (AC: 20) - 262 parts
+
+📁 Jangaon (ID: S2925)
+   Constituencies: 3
+   Total Parts: 865
+   Constituencies:
+     • Ghanpur (Station) (AC: 99) - 291 parts
+     • Jangoan (AC: 98) - 278 parts
+     • Palakurthi (AC: 100) - 296 parts
+
+📁 Jayashankar Bhupalpalle (ID: S2929)
+   Constituencies: 1
+   Total Parts: 317
+   Constituencies:
+     • Bhupalpalle (AC: 108) - 317 parts
+
+📁 Jogulamba Gadwal (ID: S2921)
+   Constituencies: 2
+   Total Parts: 594
+   Constituencies:
+     • Alampur (AC: 80) - 291 parts
+     • Gadwal (AC: 79) - 303 parts
+
+📁 Kamareddy (ID: S2906)
+   Constituencies: 3
+   Total Parts: 796
+   Constituencies:
+     • Jukkal (AC: 13) - 255 parts
+     • Kamareddy (AC: 16) - 267 parts
+     • Yellareddy (AC: 15) - 274 parts
+
+📁 Karimnagar (ID: S2909)
+   Constituencies: 4
+   Total Parts: 1338
+   Constituencies:
+     • Choppadandi (AC: 27) - 327 parts
+     • Huzurabad (AC: 31) - 305 parts
+     • Karimnagar (AC: 26) - 390 parts
+     • Manakondur (AC: 30) - 316 parts
+
+📁 Khammam (ID: S2931)
+   Constituencies: 5
+   Total Parts: 1460
+   Constituencies:
+     • Khammam (AC: 112) - 355 parts
+     • Madhira (AC: 114) - 268 parts
+     • Palair (AC: 113) - 291 parts
+     • Sathupalle (AC: 116) - 294 parts
+     • Wyra (AC: 115) - 252 parts
+
+📁 Kumaram Bheem Asifabad (ID: S2901)
+   Constituencies: 2
+   Total Parts: 678
+   Constituencies:
+     • Asifabad (AC: 5) - 358 parts
+     • Sirpur (AC: 1) - 320 parts
+
+📁 Mahabubabad (ID: S2926)
+   Constituencies: 2
+   Total Parts: 555
+   Constituencies:
+     • Dornakal (AC: 101) - 267 parts
+     • Mahabubabad (AC: 102) - 288 parts
+
+📁 Mahabubnagar (ID: S2918)
+   Constituencies: 3
+   Total Parts: 846
+   Constituencies:
+     • Devarkadra (AC: 76) - 294 parts
+     • Jadcherla (AC: 75) - 278 parts
+     • Mahbubnagar (AC: 74) - 274 parts
+
+📁 Mancherial (ID: S2902)
+   Constituencies: 3
+   Total Parts: 747
+   Constituencies:
+     • Bellampalli (AC: 3) - 227 parts
+     • Chennur (AC: 2) - 230 parts
+     • Mancherial (AC: 4) - 290 parts
+
+📁 Medak (ID: S2912)
+   Constituencies: 2
+   Total Parts: 586
+   Constituencies:
+     • Medak (AC: 34) - 278 parts
+     • Narsapur (AC: 37) - 308 parts
+
+📁 Medchal Malkajgiri (ID: S2916)
+   Constituencies: 5
+   Total Parts: 2435
+   Constituencies:
+     • Kukatpally (AC: 46) - 417 parts
+     • Malkajgiri (AC: 44) - 418 parts
+     • Medchal (AC: 43) - 601 parts
+     • Quthbullapur (AC: 45) - 592 parts
+     • Uppal (AC: 47) - 407 parts
+
+📁 Mulugu (ID: S2932)
+   Constituencies: 1
+   Total Parts: 303
+   Constituencies:
+     • Mulug (AC: 109) - 303 parts
+
+📁 Nagarkurnool (ID: S2919)
+   Constituencies: 3
+   Total Parts: 880
+   Constituencies:
+     • Achampet (AC: 82) - 326 parts
+     • Kollapur (AC: 85) - 284 parts
+     • Nagarkurnool (AC: 81) - 270 parts
+
+📁 Nalgonda (ID: S2922)
+   Constituencies: 6
+   Total Parts: 1812
+   Constituencies:
+     • Devarakonda (AC: 86) - 326 parts
+     • Miryalaguda (AC: 88) - 264 parts
+     • Munugode (AC: 93) - 317 parts
+     • Nagarjuna Sagar (AC: 87) - 306 parts
+     • Nakrekal (AC: 95) - 311 parts
+     • Nalgonda (AC: 92) - 288 parts
+
+📁 Narayanpet (ID: S2933)
+   Constituencies: 2
+   Total Parts: 554
+   Constituencies:
+     • Makthal (AC: 77) - 284 parts
+     • Narayanpet (AC: 73) - 270 parts
+
+📁 Nirmal (ID: S2904)
+   Constituencies: 3
+   Total Parts: 925
+   Constituencies:
+     • Khanapur (AC: 6) - 308 parts
+     • Mudhole (AC: 10) - 311 parts
+     • Nirmal (AC: 9) - 306 parts
+
+📁 Nizamabad (ID: S2905)
+   Constituencies: 6
+   Total Parts: 1565
+   Constituencies:
+     • Armur (AC: 11) - 219 parts
+     • Balkonda (AC: 19) - 247 parts
+     • Banswada (AC: 14) - 259 parts
+     • Bodhan (AC: 12) - 246 parts
+     • Nizamabad (Rural) (AC: 18) - 293 parts
+     • Nizamabad (Urban) (AC: 17) - 301 parts
+
+📁 Peddapalli (ID: S2908)
+   Constituencies: 3
+   Total Parts: 845
+   Constituencies:
+     • Manthani (AC: 24) - 292 parts
+     • Peddapalle (AC: 25) - 291 parts
+     • Ramagundam (AC: 23) - 262 parts
+
+📁 Rajanna Sircilla (ID: S2910)
+   Constituencies: 2
+   Total Parts: 549
+   Constituencies:
+     • Sircilla (AC: 29) - 287 parts
+     • Vemulawada (AC: 28) - 262 parts
+
+📁 Rangareddy (ID: S2914)
+   Constituencies: 8
+   Total Parts: 3501
+   Constituencies:
+     • Chevella (AC: 53) - 298 parts
+     • Ibrahimpatnam (AC: 48) - 359 parts
+     • Kalwakurthy (AC: 83) - 271 parts
+     • Lal Bahadur Nagar (AC: 49) - 577 parts
+     • Maheswaram (AC: 50) - 542 parts
+     • Rajendranagar (AC: 51) - 547 parts
+     • Serilingampally (AC: 52) - 639 parts
+     • Shadnagar (AC: 84) - 268 parts
+
+📁 Sangareddy (ID: S2911)
+   Constituencies: 5
+   Total Parts: 1633
+   Constituencies:
+     • Andole (AC: 36) - 317 parts
+     • Narayankhed (AC: 35) - 298 parts
+     • Patancheru (AC: 40) - 422 parts
+     • Sangareddy (AC: 39) - 282 parts
+     • Zaheerabad (AC: 38) - 314 parts
+
+📁 Siddipet (ID: S2913)
+   Constituencies: 4
+   Total Parts: 1157
+   Constituencies:
+     • Dubbak (AC: 41) - 253 parts
+     • Gajwel (AC: 42) - 322 parts
+     • Husnabad (AC: 32) - 309 parts
+     • Siddipet (AC: 33) - 273 parts
+
+📁 Suryapet (ID: S2923)
+   Constituencies: 4
+   Total Parts: 1205
+   Constituencies:
+     • Huzurnagar (AC: 89) - 311 parts
+     • Kodad (AC: 90) - 296 parts
+     • Suryapet (AC: 91) - 271 parts
+     • Thungathurthi (AC: 96) - 327 parts
+
+📁 Vikarabad (ID: S2915)
+   Constituencies: 4
+   Total Parts: 1133
+   Constituencies:
+     • Kodangal (AC: 72) - 275 parts
+     • Pargi (AC: 54) - 305 parts
+     • Tandur (AC: 56) - 269 parts
+     • Vicarabad (AC: 55) - 284 parts
+
+📁 Wanaparthy (ID: S2920)
+   Constituencies: 1
+   Total Parts: 316
+   Constituencies:
+     • Wanaparthy (AC: 78) - 316 parts
+
+📁 Warangal (ID: S2927)
+   Constituencies: 3
+   Total Parts: 795
+   Constituencies:
+     • Narsampet (AC: 103) - 283 parts
+     • Waradhanapet (AC: 107) - 282 parts
+     • Warangal East (AC: 106) - 230 parts
+
+📁 Yadadri Bhongiri (ID: S2924)
+   Constituencies: 2
+   Total Parts: 566
+   Constituencies:
+     • Alair (AC: 97) - 309 parts
+     • Bhongir (AC: 94) - 257 parts
+
+==================================================
+EXAMPLE: HYDERABAD DISTRICT INFO
+==================================================
+District: Hyderabad
+ID: S2917
+Constituencies: 15
+Total Parts: 3984
+✅ District summary exported to district_summary.json
+✅ Detailed report exported to detailed_district_report_20250727_114055.txt
+
+📁 Analysis complete! Check the log file: district_analysis_20250727_114055.log
